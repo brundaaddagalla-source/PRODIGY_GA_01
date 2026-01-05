@@ -1,0 +1,37 @@
+%%writefile dataset.txt
+Artificial intelligence is revolutionizing technology and society.
+Machine learning enables systems to improve through experience.
+Deep learning uses neural networks with multiple layers.
+Natural language processing helps machines understand human language.
+Generative models can create realistic text content.
+
+AI systems are widely used in healthcare and finance.
+Neural networks learn complex representations from data.
+Supervised learning relies on labeled datasets.
+Unsupervised learning finds hidden patterns in data.
+Reinforcement learning is based on reward-driven behavior.
+
+Transformers have improved natural language understanding.
+Attention mechanisms allow models to focus on relevant information.
+Large language models can generate coherent paragraphs.
+Tokenization converts text into numerical representations.
+Padding ensures equal sequence lengths for batch processing.
+
+Text generation models predict the next word in a sequence.
+GPT-2 is a transformer-based language model.
+Pretraining allows models to learn from large corpora.
+Fine-tuning adapts models to specific tasks.
+Sampling strategies affect text diversity and quality.
+
+Top-k sampling limits predictions to high-probability tokens.
+Top-p sampling selects tokens based on cumulative probability.
+Temperature controls randomness in text generation.
+Lower temperature produces more deterministic outputs.
+Higher temperature increases creativity.
+
+AI ethics focuses on fairness and transparency.
+Bias in data can affect model predictions.
+Responsible AI development is essential.
+Automation can improve productivity.
+Future AI systems will become more adaptive.
+
